@@ -3,3 +3,4 @@
 
 - 10 hours sleep perday
 - 5 meals per day
+- some boardgames
